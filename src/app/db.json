@@ -1,0 +1,203 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T-Shirts",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "imageUrl": "https://5.imimg.com/data5/SH/GC/MY-8764775/mens-t-shirt-500x500.jpg",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "T-Shirts",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+      "imageUrl": "https://m.media-amazon.com/images/I/51jogNgfPuL._UL1100_.jpg",
+      "price": 299
+    },
+    {
+      "id": 3,
+      "name": "Rubiks",
+      "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+      "imageUrl": "https://www.rubiks.com/media/catalog/product/cache/9c57e2fe71f8a58f6afba681a0a15dd4/m/i/mian.jpg",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "name": "T- Shirts",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "imageUrl": "https://www.redwolf.in/image/catalog/mens-t-shirts/full-sleeves/batman-emblem-full-sleeve-t-shirt-india.jpg",
+      "price": 499
+    },
+    {
+      "id": 5,
+      "name": "T- Shirts",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years",
+      "imageUrl": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/11/Tshirt-design.jpg?auto=format&q=60&fit=max&w=930",
+      "price": 599
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Rcb Logo",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2020/2/14/RCB-Logo_571_855.jpg",
+        "price": 299
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubiks cube",
+        "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "imageUrl": "https://www.royalchallengers.com/PRRCB01/public/styles/1374_771_landscape/public/2021-11/RCB%20ABD.jpg?itok=vZDtJRuC",
+        "price": 299
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubiks cube",
+        "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "imageUrl": "https://www.royalchallengers.com/PRRCB01/public/styles/1374_771_landscape/public/2021-11/RCB%20ABD.jpg?itok=vZDtJRuC",
+        "price": 299
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubiks cube",
+        "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "imageUrl": "https://www.royalchallengers.com/PRRCB01/public/styles/1374_771_landscape/public/2021-11/RCB%20ABD.jpg?itok=vZDtJRuC",
+        "price": 299
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubiks cube",
+        "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "imageUrl": "https://www.royalchallengers.com/PRRCB01/public/styles/1374_771_landscape/public/2021-11/RCB%20ABD.jpg?itok=vZDtJRuC",
+        "price": 299
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rubiks cube",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "imageUrl": "https://m.media-amazon.com/images/I/51jogNgfPuL._UL1100_.jpg",
+        "price": 299
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Rcb Logo",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2020/2/14/RCB-Logo_571_855.jpg",
+        "price": 299
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubiks cube",
+        "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "imageUrl": "https://www.royalchallengers.com/PRRCB01/public/styles/1374_771_landscape/public/2021-11/RCB%20ABD.jpg?itok=vZDtJRuC",
+        "price": 299
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubiks cube",
+        "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "imageUrl": "https://www.royalchallengers.com/PRRCB01/public/styles/1374_771_landscape/public/2021-11/RCB%20ABD.jpg?itok=vZDtJRuC",
+        "price": 299
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubiks cube",
+        "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "imageUrl": "https://www.royalchallengers.com/PRRCB01/public/styles/1374_771_landscape/public/2021-11/RCB%20ABD.jpg?itok=vZDtJRuC",
+        "price": 299
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubiks cube",
+        "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "imageUrl": "https://www.royalchallengers.com/PRRCB01/public/styles/1374_771_landscape/public/2021-11/RCB%20ABD.jpg?itok=vZDtJRuC",
+        "price": 299
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubiks cube",
+        "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "imageUrl": "https://www.royalchallengers.com/PRRCB01/public/styles/1374_771_landscape/public/2021-11/RCB%20ABD.jpg?itok=vZDtJRuC",
+        "price": 299
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Rcb Logo",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2020/2/14/RCB-Logo_571_855.jpg",
+        "price": 299
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Rcb Logo",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2020/2/14/RCB-Logo_571_855.jpg",
+        "price": 299
+      },
+      "id": 14
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Virat",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
